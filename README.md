@@ -2,7 +2,7 @@
 Hotel Reccomendation System made using Dataset from Booking.com
 
 
-# Given a hotel I am interested in and the comments, how should I anticipate my
+# Given a hotel I am interested in and the comments, how should I anticipate my Visit
 visit?
 When planning for a trip, selecting a hotel is extremely challenging due to the number of hotels
 available and the amount of relevant information to compare. With so many factors hidden in the text of
